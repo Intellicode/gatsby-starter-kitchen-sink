@@ -1,4 +1,6 @@
 # gatsby-starter-kitchen-sink
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Intellicode/gatsby-starter-kitchen-sink.svg)](https://greenkeeper.io/)
 A Gatsby kitchen sink starter demoing the many capabilities of Gatsby.
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:
